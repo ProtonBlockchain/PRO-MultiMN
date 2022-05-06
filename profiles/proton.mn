@@ -1,0 +1,7 @@
+COIN_NAME="proton"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="protond"
+COIN_CLI="proton-cli"
+COIN_FOLDER="/root/.proton"
+COIN_CONFIG="proton.conf"
+COIN_SERVICE="proton.service"
